@@ -9,3 +9,6 @@ Pyramids and sliding window are used for detecting objects from an image. Here w
 These sliding windows together with image pyramid helps us to find the objects in images
 
 
+Reference: https://www.pyimagesearch.com
+
+
