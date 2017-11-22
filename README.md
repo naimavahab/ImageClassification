@@ -1,4 +1,4 @@
-# ObejectDetection
+# ObjectDetection
 Sliding Windows for Object Detection with Python and OpenCV
 
 This is a work taken from " https://www.pyimagesearch.com/2015/03/23/sliding-windows-for-object-detection-with-python-and-opencv/ " 
